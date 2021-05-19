@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/saraalaa/tagerly_task.svg?branch=master)](https://travis-ci.com/saraalaa/tagerly_task)
+[![Maintainability](https://api.codeclimate.com/v1/badges/464629e05e6b86f6a6e2/maintainability)](https://codeclimate.com/github/saraalaa/tagerly_task/maintainability)
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
